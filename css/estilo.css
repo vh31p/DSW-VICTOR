@@ -1,0 +1,38 @@
+html,body {
+    height:100%;
+    background : #838383;
+}
+header  {
+display: block;
+background:#ff5900;
+padding:10px 0px;
+text-align: center;
+image-orientation: center;
+
+}
+.menu{
+    list-style: none;
+    padding: 0%;
+    background: #006680;
+    width:90%;
+    max-width: 3000px;
+    margin:auto;
+}
+.menu li a{
+    text-decoration: none;
+    color:white;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+
+}
+.menu li a:hover{
+    background:#F2880D;
+}
+
+h1{
+    color:whitesmoke;
+}
