@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="ES">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESTRUCTURA BASICA HTML</title>
+</head>
+<body>
+    <H1>ESTRUCTURA BASICA HTML</h1>
+    <h1>OBJETIVO GENERAL </h1>
+    <P>El objetivo general de la pagina web  es enseñar el lenguaje de marcado 
+        que define la estructura de un contenido</P>
+    <h1>OBJETIVO ESPECIFICO 1 </h1>
+    <P>Se enfoca en mostrar las  diferentes  etiquetas 
+        y atributos  que tiene  html
+    </P>
+    <h1>OBJETIVO ESPECIFICO 2 </h1>
+    <P>Identifica la necesidad de aprender html 
+        para el diseño de paginas web
+    </P>
+    <h1>OBJETIVO ESPECIFICO 3</h1>
+    <P>
+    elaboraciòn del trabajo fase 2  para el curso de 
+    desarrollo de sitios web
+    </P>
+    <h2>
+      MATERIALES 
+    </h2>
+    <P>TEXTO  https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics </P>
+    <P>VIDEO  https://www.youtube.com/watch?v=rbuYtrNUxg4</P>
+    <H3>CONTENIDO DE INICIO</H3>
+    <P> EL lenguaje de marcado de Hipertexto(html)
+        es el còdigo que se utiliza para estructurar y 
+        desplegar  una pagina web y sus contenidos.
+        por ejemplo sus contenidos podrian ser parrafos, una lista con viñetas,
+        imagenes y tablas de datos.
+    
+    </P>
+</body>
+</html>
