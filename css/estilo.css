@@ -1,7 +1,7 @@
 html,body {
     height:100%;
     background : #838383;
-    text-align:left;
+
 }
 header  {
 display: block;
@@ -96,5 +96,5 @@ div#seccion{
 }
 
 article{
-    text-align: center;
+    text-align: right;
 }
